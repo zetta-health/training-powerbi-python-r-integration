@@ -1,6 +1,7 @@
-# training-powerbi-python-r-integration
-This repo is part of a training on how to use Python and R in PowerBI.
+# Treinamento na integração de R e Python no PowerBI
+
+Este repositório faz parte do treinamento oferecido aos colaboradores da Zetta Health Analytics.
 
 Link para apresentação: 
 
-https://docs.google.com/presentation/d/1pWw0hUdn9uaLzh6MDiHJJYGQSgmDqPjj1hNFcJHO4zQ/edit?usp=sharing
+[Link para slides](https://docs.google.com/presentation/d/e/2PACX-1vSYpvIyVqLAnjBz85vYwoZcR83FS8uzADuDj-dUfHmc25TWQcYDM0nAOZy9sDhvhKsYYr58xMncL6lJ/pub?start=false&loop=false&delayms=3000)
